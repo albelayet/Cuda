@@ -1,0 +1,123 @@
+@media only screen and (max-width: 1024px) {    
+    .row{
+        margin: 0 50px;
+    }
+    
+    h3{
+        font-size: 2rem;
+    }
+    
+    .client-img {
+        width: 100%;
+        
+    }
+    .footer ul li {
+        margin: 1.5rem 2rem;
+    }
+
+}
+
+@media only screen and (max-width: 980px) {
+    .span_1_of_4 {
+        width: 49.2%; 
+    }
+    .col {
+        margin-left: 0;
+    }        
+    
+}
+
+@media only screen and (max-width: 900px) {
+    .main-nav {
+        display: none;
+    }
+    .mobile-menu {
+        display: block;
+    }
+}
+
+@media only screen and (max-width: 768px) {
+    .portfolio-section .col {
+        width: 100%;
+        float: left;
+    }
+    html {
+        font-size: 50.5%;
+    }
+    .contact form {
+        width: 90%;
+        margin-left: 5%;
+    }
+    .contact form .col {
+        margin-left: 2px;
+        display: block;
+        width: 100%;
+    }
+}
+
+@media only screen and (max-width: 600px) {
+    html {
+        font-size: 40%;
+    }
+    .client-review p {
+        padding: 0 2em;
+    }
+
+
+}
+
+
+
+@media only screen and (max-width: 480px) {
+    h1 {
+        font-size: 3.2rem;
+    }
+    h2 {
+        font-size: 2rem;
+        line-height: 3rem;
+    }
+    h3 {
+        font-size: 1.6rem;
+    }
+    .span_1_of_4 {
+        width: 100%; 
+    }
+    .contact form {
+        width: 100%;
+        margin-left: 0%;
+    }
+    .contact p {
+        line-height: 2rem;
+    }
+    html {
+        font-size: 45%;
+    }
+
+
+}
+
+@media only screen and (max-width: 375) {
+
+    .btn-submit {
+        margin-left: -4rem;
+    }   
+}
+
+@media only screen and (max-width: 320px){
+    h2 {
+        font-size: 1.8rem;
+        line-height: 3rem;
+    }
+    .client-review p {
+        margin-left: -3rem;
+    }
+    .btn-submit {
+        margin-left: -6.7rem;
+    }
+}
+
+
+
+
+
+
